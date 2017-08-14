@@ -1,5 +1,5 @@
 # Command Line Interface Calendar
-### C demonstration
+#### C demonstration
 
 Build a calendar in terminal given a month's length and starting day.
 
